@@ -1,4 +1,4 @@
-# Todo App
+# Todo App - iam-kira
 - A Flutter application developed to add todo tasks and handles it 
 - I used Sqflite as a local database to store all the tasks
 - I used flutter_slidable package to make task item slidable and can be dismissed
